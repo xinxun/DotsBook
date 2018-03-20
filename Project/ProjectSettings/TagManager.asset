@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DontDestroyOnLoad
+  - hero
+  - monster
+  - substance
+  - mapobj
+  - eudemon
+  - test
+  - Collider
+  - CornerCollider
+  - Terrain
+  - Enemy
+  - NPC
+  - Scene_Normal
+  - MainCanvas
+  - ScreenObj
+  - Node
+  - layout
+  - Axis
+  - Text3D
+  - Text3DInputArea
+  - Audio
+  - AudioInfo
+  - EventPreviewing
+  - AudioText
+  - wow_ignore_tag
+  - terrain_detect_ignore
+  - minimap_ignore_weather
+  - terrain_drawLine
+  - LookDownCamera
+  - VoxelMap
+  - TerrainMap
+  - TemplateTexture
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - layer_terrain
+  - layer_airwall
+  - layer_notwalkable
+  - layer_static
+  - layer_editobj
+  - layer_mapsystem
+  - layer_screenobj
+  - layer_effect
+  - layer_tempuse
+  - layer_player
+  - CharacterEditor
+  - layer_ghostbuild
+  - layer_invisibleObj
+  - layer_staticitem
+  - layer_waterplane
+  - SceneEditInputStatic
+  - VoxelTerrain_Water
+  - VoxelTerrain_Light
+  - VoxelTerrain_Face
+  - layer_preview_camera_ignore
+  - VoxelTerrain_Point
+  - VoxelDecoration
+  - VoxelTerrain_Line
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
